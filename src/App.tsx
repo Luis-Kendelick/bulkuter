@@ -5,9 +5,7 @@ import "./App.css";
 
 const App = () => {
   return <div>
-
-
-
+    oi amigo
     <img src={viteLogo} alt="Vite Logo" />
   </div>;
 };
