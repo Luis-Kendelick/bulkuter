@@ -4,7 +4,12 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 const App = () => {
-  return <div></div>;
+  return <div>
+
+
+
+    <img src={viteLogo} alt="Vite Logo" />
+  </div>;
 };
 
 export default App;
